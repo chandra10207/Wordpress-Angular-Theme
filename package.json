@@ -1,0 +1,19 @@
+{
+  "name": "angtest",
+  "version": "1.0.0",
+  "description": "angular bootstrap theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandra shekhar pandey",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "angular"
+  ]
+}
